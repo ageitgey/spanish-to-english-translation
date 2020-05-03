@@ -1,2 +1,2 @@
-websocket
+websocket_client
 sentence_splitter
